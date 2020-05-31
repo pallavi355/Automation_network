@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\binda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\binda\\.nuget\\packages"
+    ]
+  }
+}
